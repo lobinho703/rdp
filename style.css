@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto;
+    width:65%;
+    height: 90%;
+
+}
+#cabeca{
+    margin: auto;
+    overflow: auto;
+    background-color: #ffffff;
+    
+}
+#topo-pagina ul{
+    list-style: none;
+    float:inline-end
+    
+
+    
+}
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a:hover {
+    color: black;
+}
+#menu ul li a:link {
+    color: rgb(153, 226, 163);
+}
+#menu img{
+    width: 15px;
+}
+
+#logo{
+    width: 15%;
+    position: relative;
+    float: left;
+    padding-left: 1%;
+    
+}
+#empresa{
+    width: 100%;
+    align-items: center;
+}
